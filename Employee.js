@@ -51,7 +51,7 @@ const Employee = (props) => {
 
 const styles = StyleSheet.create({
     btn: { width: '100%', marginTop: 12, backgroundColor: '#000000', alignItems: 'center', paddingVertical: 12, borderRadius: 12 },
-    txt_btn: { color: '#ffcc00', fontSize: 20 },
+    txt_btn: { color: '#00cc99', fontSize: 20 },
     input: {
         backgroundColor: "#ffffff",
         width: "100%",
@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     },
     editrow: {
         width: '100%',
-        backgroundColor: '#fff',
+        backgroundColor: '#ebebeb',
         padding: 10,
         borderRadius: 10,
         marginBottom: 12
